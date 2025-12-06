@@ -11,7 +11,7 @@ Often, your Agent is forced to stop due to exhausted Fast Request quota, or gets
 **10x-Agent-Loop** brings you through file watching technology and multi-runtime support:
 
 *   💰 **Infinite Refills**: One Fast Request, unlimited interactions—make your 500 quota feel like 5000.
-*   🧠 **Consultant Mode**: When AI gets stuck, automatically generate structured consultation emails and leverage external powerful models (Gemini/Claude) to break through.
+*   🧠 **Consultant Mode**: When AI gets stuck, automatically generate structured consultation emails and leverage external clean environments (Gemini/Claude) to break through.
 *   🛡️ **Context Cleaning**: Force structured thinking to prevent Agents from falling into local optima.
 
 > **⚠️ Prerequisites**:
@@ -159,11 +159,7 @@ Rather than "asking for help," it's more about **"noise reduction"**.
 
 *   **Fresh Perspective**: Feed this email containing complete information to a **completely clean external environment**. External models don't have Cursor's historical baggage, nor do they have complex Agent tool interference. They only see the "facts (Context Dump)" you provide.
 
-**Best Practice**: Copy the generated email content to **Gemini 1.5 Pro** (or SOTA models with long context windows like Claude 3.5 Sonnet), use the following Prompt:
-
-> `Please analyze the following error logs and context, provide specific fix code blocks without explanations.`
-
-Get advice based on pure logic, then paste it back into `NEXT_STEP.md` for Cursor to execute the fix.
+**Best Practice**: Copy the generated email content directly to **Gemini 3 Pro**, **Claude 4.5**, **DeepSeek V3.2**, **Qwen Max**. Get advice based on pure logic, then paste it back into `NEXT_STEP.md` for Cursor to execute the fix.
 
 ### 2. Breaking Terminal Blocking (The Stdin Block)
 
@@ -294,7 +290,7 @@ Get advice based on pure logic, then paste it back into `NEXT_STEP.md` for Curso
 
 2.  **Draft**: AI automatically generates a **structured consultation email** in the dialog (containing logs, code, context) according to rules.
 
-3.  **Seek Help**: You copy this "email" and send it to more powerful reasoning models (such as **Gemini 1.5 Pro**, **Claude 3.5 Sonnet**, or **DeepSeek R1**).
+3.  **Seek Help**: You copy this "email" and send it to external clean environments: **Gemini 3 Pro**, **Claude 4.5**, **DeepSeek V3.2**, **Qwen Max**. These external models don't have Cursor's historical baggage or complex Agent tool interference—they only see the clean facts you provide.
 
 4.  **Fill Back**: Paste the external model's suggestions back into `NEXT_STEP.md`.
 
